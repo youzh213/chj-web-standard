@@ -1,0 +1,34 @@
+.legend-background{
+	background:#CFD5E0;
+}
+
+body{
+	width:998px;
+	font-family: 'Î¢ÈíÑÅºÚ';
+}
+
+.p_notice{
+	color:#555555;
+}
+
+.div_main_body{
+	margin-left:24px;
+	background:#EEEEEE;
+	padding:3px;
+}
+
+.div_list_body{
+	background:#FFFFFF;
+}
+
+.antenna_title{
+	text-align:center;
+	font-size: 30px;
+	font-weight: 400;
+	font-family: 'Î¢ÈíÑÅºÚ';
+}
+
+legend{
+	font-size: 20px;
+}
+
